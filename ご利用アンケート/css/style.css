@@ -18,3 +18,10 @@ h1 {
 .align-right {
     text-align: right;
 }
+
+@media onrly screen and (max-windth:992px) {
+    .radio-inline {
+        display: block;
+        margin: 0;
+    }
+}
